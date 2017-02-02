@@ -4,7 +4,7 @@
 
 **Today's Progress**: Set up an HTML and CSS file to build my personal website.
 
-**Thoughts:** I really struggled with CSS, Bootstrap, but, overall, I feel good about coming back from a long coding break.
+**Thoughts:** I really struggled with CSS and Bootstrap, but, overall, I feel good about coming back from a long coding break.
 
 **Things to Do:** I need to create a blog  
 
