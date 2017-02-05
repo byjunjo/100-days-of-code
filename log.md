@@ -30,3 +30,11 @@
 
 **Link to work:** [My Jekyll Gem](https://github.com/byjunjo/jekyll-prac)
 
+
+### Day 3: February 5, 2017
+
+**Today's Progress**: Created a new JS based project, "Better Questions Generator," and spend about 30 minutes for Jekyll
+
+**Thoughts:** JS is fun to play with, but I need to sharpen my JS skills. Plus, Jekyll is very confusing and distracting from my main purpose: learning JS
+**Things to Do:** Keep learning JS on Udemy
+**Link to work:** [Better Question](https://github.com/byjunjo/better-question-generator)
