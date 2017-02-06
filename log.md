@@ -40,3 +40,15 @@
 **Things to Do:** Keep learning JS on Udemy
 
 **Link to work:** [Better Question](https://github.com/byjunjo/better-question-generator)
+
+
+### Day 4: February 6, 2017
+
+**Today's Progress**: Completed two Javascript algorithm challenges, "factorial" and "kebab to snake."
+
+**Thoughts:** JS algorithm challenges are hard, but, with Googling, I could complete the challenges
+
+**Things to Do:** Keep learning JS on Udemy
+
+**Link to work:** [Udemy Web Development Bootcamp](https://github.com/byjunjo/udemy-web-dev-bootcamp)
+
