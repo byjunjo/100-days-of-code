@@ -52,3 +52,14 @@
 
 **Link to work:** [Udemy Web Development Bootcamp](https://github.com/byjunjo/udemy-web-dev-bootcamp)
 
+
+### Day 5: February 7, 2017
+
+**Today's Progress**: Started the Random Quote Machine project on FreeCodeCamp. 
+
+**Thoughts:** JS is hard. I need to sharpen my knowledge in JS DOM.
+
+**Things to Do:** Add a Tweet functionality and make it more beautiful using CSS for my random quote machine project. 
+
+**Link to work:** [Random Quote Machine](https://github.com/byjunjo/random-quote-machine)
+
