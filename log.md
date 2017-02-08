@@ -63,3 +63,14 @@
 
 **Link to work:** [Random Quote Machine](https://github.com/byjunjo/random-quote-machine)
 
+
+### Day 6: February 8, 2017
+
+**Today's Progress**: Used only Javascript to tweet out a displayed quote. Also, added a button to create a new quote using JS. 
+
+**Thoughts:** Knowing jQuery is useful, but, at this level, I should use only JS to improve the skill. 
+
+**Things to Do:** Make it more beautiful using CSS for my random quote machine project. And, move on to the next one. 
+
+**Link to work:** [Random Quote Machine](https://github.com/byjunjo/random-quote-machine)
+
