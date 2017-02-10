@@ -74,3 +74,17 @@
 
 **Link to work:** [Random Quote Machine](https://github.com/byjunjo/random-quote-machine)
 
+
+### February 9, 2017 (Skipped) 
+
+**Today's Progress**: Skipped
+
+**Thoughts:** Excuse excuse. Do the first things first. Do the coding in the morning, not later. 
+
+### Day 7: February 10, 2017
+
+**Today's Progress**: Used only Javascript to complete "Reverse Strings" and "Factorialization" algorithm challenges on Free Code Camp.
+
+**Thoughts:** Googling is good. But, first, I must figure it out by myself. 
+
+**Link to work:** [Free Code Camp](https://github.com/byjunjo/free-code-camp)
